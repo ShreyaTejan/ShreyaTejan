@@ -1,7 +1,9 @@
+[![](https://visitcount.itsvg.in/api?id=ShreyaTejan&icon=7&color=2)](https://visitcount.itsvg.in)  
+
 # 🌻 About Me
 Hi! I'm Shreya, a sophomore pursuing BTech in CSE at IGDTUW.  <br>  
 
-I am currently the President of IGDTUW Resource, a website created by my senior Upasana and now, the whole IGDTUW Resource community is managed by me. We help over 3.5K students navigate their life academics and beyond at IGDTUW.  <br>  
+I am currently the **President of IGDTUW Resource**, a website created by my senior Upasana and now, the whole IGDTUW Resource community is managed by me. We help over **3.5K** students navigate their life academics and beyond at IGDTUW.  <br>  
 
 Right now, I am excelling my skills at UI/ UX designing, Web Development, blockchain and cybersecurity. Alongside, mastering DSA in Java.  <br>
 
@@ -25,12 +27,12 @@ I exceed client expectations when it comes to freelancing as a social media mana
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShreyaTejan&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
-
+---
 # Connect With Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyatejan)   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreya_officio)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lilmiss_success)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lilmiss_success)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShreyaTejan)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LilMissSuccess) 
 
