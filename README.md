@@ -20,12 +20,31 @@ Besides being a tech- nerd, I exceed client expectations when it comes to freela
 
 
 # My GitHub Stats 📈
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShreyaTejan&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTejan&theme=codeSTACKr&hide_border=true)
+<br/>
+
+<!-- LANG
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTejan&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShreyaTejan&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+
+-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- orange
 ![](https://github-readme-stats.vercel.app/api?username=ShreyaTejan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTejan&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTejan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 -->
+
+<!--
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTejan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTejan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ShreyaTejan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -35,7 +54,7 @@ Besides being a tech- nerd, I exceed client expectations when it comes to freela
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShreyaTejan&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
-
+-->
 
 <!-- original
 
