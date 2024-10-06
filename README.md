@@ -28,13 +28,14 @@ Besides being a tech- nerd, I exceed client expectations when it comes to freela
 -->
 
 
+![](https://github-readme-stats.vercel.app/api?username=ShreyaTejan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTejan&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTejan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=ShreyaTejan&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTejan&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTejan&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShreyaTejan&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShreyaTejan&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+
 
 <!-- original
 
