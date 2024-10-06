@@ -7,7 +7,7 @@ I am currently the **President of IGDTUW Resource**, a website created by my sen
 
 Right now, I am excelling my skills at UI/ UX designing, Web Development, blockchain and cybersecurity. Alongside, mastering DSA in Java.  <br>
 
-I exceed client expectations when it comes to freelancing as a social media manager & designer and content & ghost writer.<br>
+Besides being a tech- nerd, I exceed client expectations when it comes to freelancing as a social media manager & designer and content & ghost writer.<br>
 
 # ✨ Fun Facts About Me :)
 
