@@ -26,10 +26,11 @@ Besides being a tech- nerd, I exceed client expectations when it comes to freela
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTejan&theme=codeSTACKr&hide_border=true)
 <br/>
 
-<!-- LANG
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTejan&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- LANG
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShreyaTejan&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
