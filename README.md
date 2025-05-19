@@ -1,4 +1,12 @@
-![](https://komarev.com/ghpvc/?username=ShreyaTejan&label=Profile%20views&color=0e75b6&style=flat)  
+
+
+
+<h1 align="center">Hi 👋, I'm Shreya Tejan</h1>
+<h3 align="center">🚀 Passionate Developer from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShreyaTejan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 # 🌻 About Me
 Hi! I'm Shreya, a sophomore pursuing BTech in CSE at IGDTUW.  <br>  
@@ -70,7 +78,7 @@ Besides being a tech- nerd, I exceed client expectations when it comes to freela
 ![](https://github-readme-stats.vercel.app/api?username=ShreyaTejan&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTejan&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTejan&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![](https://visitcount.itsvg.in/api?id=ShreyaTejan&icon=7&color=2)](https://visitcount.itsvg.in)
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShreyaTejan&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 -->
@@ -86,6 +94,7 @@ Besides being a tech- nerd, I exceed client expectations when it comes to freela
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShreyaTejan&icon=7&color=2)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=ShreyaTejan&label=Profile%20views&color=0e75b6&style=flat)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
