@@ -83,12 +83,6 @@
 - Demonstrated knowledge in threat modeling, security principles, and incident response
 - Proficient in core concepts like threat modeling, security principles, and incident response  
 
-## Fun Facts About Me ✨ 
-
-- Did you know? To me, the serenity of a sunset feels like hitting 'deploy' on a flawless project—pure bliss!  <br>
-- I'm a book lover who believes that stories, like code, can shape the world.<br>
-- And beaches? Building sandcastles taught me the art of creating something beautiful, one grain at a time—just like solving complex problems, step by step.
-
 
 
 ---
