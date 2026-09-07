@@ -32,7 +32,7 @@ Building with **Web Dev, AI/ML & Content Writing**
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyaTejan&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=ShreyaTejan&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" /> -->
 
   <br/><br/>
 
@@ -40,12 +40,12 @@ Building with **Web Dev, AI/ML & Content Writing**
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTejan&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTejan&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /> -->
 
 </div>
 
 ---
-
+<!--
 # Experience 💼 
 
 ### 🔐 **Cybersecurity Intern – Grastech Solutions** 
@@ -104,5 +104,7 @@ Building with **Web Dev, AI/ML & Content Writing**
 ---
 
 ![](https://komarev.com/ghpvc/?username=ShreyaTejan&label=Profile%20views&color=0e75b6&style=flat)  
+
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
