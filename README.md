@@ -1,5 +1,5 @@
 <!-- ![Banner Image](https://github.com/ShreyaTejan/ShreyaTejan/blob/main/Shreya%20Tejan%20Git%20Banner.png) -->
-![Banner Image](https://github.com/ShreyaTejan/ShreyaTejan/blob/897fdf2986ca6a51fb9b2ecc71ddee87b50f3914/git%20baner.png)
+![Banner Image](https://github.com/ShreyaTejan/ShreyaTejan/blob/7e4076c27d3aad0b8f53692489880b939fe15a6e/Shreya%202026%20gamified%20git%20banner.png)
 
 
 <h1 align="center">Hi, I'm Shreya Tejan</h1>
