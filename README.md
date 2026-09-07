@@ -1,9 +1,9 @@
 <!-- ![Banner Image](https://github.com/ShreyaTejan/ShreyaTejan/blob/main/Shreya%20Tejan%20Git%20Banner.png) -->
-![Banner Image](https://github.com/ShreyaTejan/ShreyaTejan/blob/main/git%20banner.png)
+![Banner Image](https://github.com/ShreyaTejan/ShreyaTejan/blob/897fdf2986ca6a51fb9b2ecc71ddee87b50f3914/git%20baner.png)
 
 
 <h1 align="center">Hi, I'm Shreya Tejan</h1>
-<h3 align="center">Pre-Final Year B.Tech CSE Student at IGDTUW</h3>
+<h3 align="center">Senior B.Tech CSE Student at IGDTUW</h3>
 
 
 <p align="center">
@@ -12,9 +12,14 @@
 
 #  About Me
 
-<p>🔭 Currently exploring <b>UI UX, DSA and cybersecurity. </b>  </p>
-<p>💪 Passionate about <b>Web Development, Cybersecurity, AI and Content Writing.</b> </p>
-<p>📫 Reach me at <b>shreyatejan@gmail.com</b>  </p>
+🦢 **Designing. Building. Learning.**
+
+Exploring **UI/UX, DSA & Cybersecurity**  
+Building with **Web Dev, AI/ML & Content Writing**
+
+✦ I like turning ideas into things that are **useful, intuitive and worth remembering.**
+
+📫 **Let's build something:** [shreyatejan@gmail.com](mailto:shreyatejan@gmail.com)
 
 
 
