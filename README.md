@@ -1,5 +1,5 @@
 <!-- ![Banner Image](https://github.com/ShreyaTejan/ShreyaTejan/blob/main/Shreya%20Tejan%20Git%20Banner.png) -->
-![Banner Image](https://github.com/ShreyaTejan/ShreyaTejan/blob/main/Shreya%20Tejan%20Git%20Banner.png)
+![Banner Image](https://github.com/ShreyaTejan/ShreyaTejan/blob/main/git%20banner.png)
 
 
 <h1 align="center">Hi, I'm Shreya Tejan</h1>
